@@ -1,6 +1,6 @@
-### Minho Cho 🥭
+# Minho Cho 🥭
 
-## I'm a Programmer, Linguist, Photographer, and Author!
+## Programmer, Linguist, Photographer, and Author!
 - 🌴 Digital Nomad Pursuer 
 - 🚀 Learning Programming 
 - 👊🏼 Open to Collaborations
