@@ -38,3 +38,6 @@
 [website]: https://minhocho.com
 [instagram]: https://www.instagram.com/minoooo.jpg/
 [linkedin]: https://www.linkedin.com/in/minhocho4/
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]: 
