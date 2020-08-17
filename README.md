@@ -1,10 +1,10 @@
 ### Minho Cho - [website] 👋
 
 ## I'm a Programmer, Linguist, Photographer, and Author!
-- 🔭 I want to become a digital nomad 🌴 [website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 Collaboraion opportunities
-- 🥅 2020 Goals: Learn programming and start FIRE
+- 🍕 Digital Nomad Pursuer 🌴
+- 🌱 Learning Programming 🤣
+- 👯 Open to Collaborations
+- 🥅 2020 Goals: Programming, Photograhy, Book Publishing, FIRE
 - 📚 Languages: Korean, English, Japanese, German
 
 ### Connect With Me:
