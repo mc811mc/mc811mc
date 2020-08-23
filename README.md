@@ -4,7 +4,7 @@
 - 🌴 Digital Nomad Pursuer 
 - 🚀 Learning Programming 
 - 👊🏼 Open to Collaborations
-- 🏆 2020 Goals: Programming, Photograhy, Book Publishing, FIRE
+- 🏆 2020 Goals: Programming, Photography, Book Publishing, FIRE
 - 📚 Languages: Korean, English, Japanese, German
 
 ### Connect With Me:
