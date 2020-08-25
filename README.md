@@ -2,9 +2,9 @@
 
 ## Programmer, Linguist, Photographer, and Author!
 - 🌴 Digital Nomad Pursuer 
-- 🚀 Learning Programming 
+- 🚀 Learning Programming, Machine Learning
 - 👊🏼 Open to Collaborations
-- 🏆 2020 Goals: Programming, Photography, Book Publishing, FIRE
+- 🏆 2020 Goals: Programming, Photo Album, Book Publishing, FIRE
 - 📚 Languages: Korean, English, Japanese, German
 
 ### Connect With Me:
