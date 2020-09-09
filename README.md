@@ -12,6 +12,7 @@
 [<img align="left" alt="minhocho.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mc811mc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mc811mc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mc811mc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -36,3 +37,4 @@
 [website]: https://minhocho.com
 [instagram]: https://www.instagram.com/minoooo.jpg/
 [linkedin]: https://www.linkedin.com/in/minhocho4/
+[twitter]: https://www.twitter.com/MinhoCho
