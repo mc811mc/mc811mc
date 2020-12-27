@@ -5,7 +5,7 @@
 - 🚀 Learning Programming, Machine Learning
 - 👊🏼 Open to Collaborations
 - 🏆 2021 Goals: Programming, Book Publishing, Traveling
-- 📚 Languages: Korean, English, Japanese, German
+- 📚 Languages: Korean, English, Japanese
 
 ### Connect With Me:
 
