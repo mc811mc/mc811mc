@@ -2,7 +2,7 @@
 
 ## Programmer, Linguist, Photographer, and Author!
 - 🌴 Digital Nomad Pursuer 
-- 🚀 Learning Programming, Machine Learning
+- 🚀 Learning Programming
 - 👊🏼 Open to Collaborations
 - 🏆 2021 Goals: Programming, Book Publishing, Traveling
 - 📚 Languages: Korean, English, Japanese
