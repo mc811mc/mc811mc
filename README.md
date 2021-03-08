@@ -2,8 +2,8 @@
 
 ## Programmer, Linguist, Photographer, and Author!
 - 🌴 Digital Nomad Pursuer 
-- 🚀 Working on Project
-- 👊🏼 Open to Collaborations
+- 🚀 Grinding on Projects
+- 👊🏼 Currently Collaborating
 - 🏆 2021 Goals: Programming, Book Publishing, Traveling
 - 📚 Languages: Korean, English, Japanese
 
