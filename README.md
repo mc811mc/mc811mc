@@ -39,13 +39,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="mc811mc's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mc811mc&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://minhocho.com
 [instagram]: https://www.instagram.com/minoooo.jpg/
 [linkedin]: https://www.linkedin.com/in/minhocho4/
