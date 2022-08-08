@@ -1,10 +1,7 @@
 # Minho Cho 🥭
 
-## Programmer, Linguist, Photographer, and Author!
-- 🌴 Digital Nomad Pursuer 
-- 🚀 Grinding on Projects
-- 👊🏼 Currently Collaborating
-- 🏆 2021 Goals: Programming, Book Publishing, Traveling
+## CS Graduate Student
+- 🏆 2022 Goals: Programming
 - 📚 Languages: Korean, English, Japanese
 
 ### Connect With Me:
