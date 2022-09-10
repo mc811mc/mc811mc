@@ -6,7 +6,6 @@
 
 ### Connect With Me:
 
-![personal](https://img.shields.io/badge/Personal Website-000000?style=for-the-badge&logo=Instagram&logoColor=white)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
@@ -27,6 +26,5 @@
 
 ---
 
-[personal]: https://minhocho.com
 [instagram]: https://www.instagram.com/travelingmino/
 [linkedin]: https://www.linkedin.com/in/minhocho4/
