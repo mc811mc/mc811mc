@@ -6,11 +6,8 @@
 
 ### Connect With Me:
 
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=<LinkedIn>&logoColor=#0A66C2)
-![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=<Instagram>&logoColor=#E4405F)
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <br />
 
@@ -31,7 +28,5 @@
 ---
 
 [website]: https://minhocho.com
-[instagram]: https://www.instagram.com/minoooo.jpg/
+[instagram]: https://www.instagram.com/travelingmino/
 [linkedin]: https://www.linkedin.com/in/minhocho4/
-[twitter]: https://www.twitter.com/MinhoCho
-[patreon]: https://www.patreon.com/minhocho
