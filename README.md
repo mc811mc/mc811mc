@@ -9,6 +9,8 @@
 ![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=<LinkedIn>&logoColor=#0A66C2)
 ![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=<Instagram>&logoColor=#E4405F)
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 <br />
 
