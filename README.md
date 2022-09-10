@@ -6,7 +6,7 @@
 
 ### Connect With Me:
 
-![linkedin](https://img.shields.io/badge/#0A66C2-000000?style=for-the-badge&logo=<LinkedIn>&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=<LinkedIn>&logoColor=white)
 
 
 <br />
