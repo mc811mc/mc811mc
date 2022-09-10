@@ -1,8 +1,20 @@
 # Minho Cho 🥭
 
-## CS Graduate Student
-- 🏆 Focus: Data Analytics, AI, Software Engineering
-- 📚 Languages: Korean, English, Japanese
+## Education
+
+I am a current **CS graduate student** at **Virgina Tech** specializing in **Data Analytics** and **AI**. I am also taking courses in **Software Engineering**. I did my undergraduate at the **University of Washington** in **Mathematics**. 
+
+## Tech
+
+I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Crytocurrency Trading Bot**.  
+
+## Hobbies
+
+I have been self-learning Japanese since 2018. Working in Japan in the future is on my radar!
+
+I am preparing to run a marathon in Fall 2023. My goal is to finish within 3 hours to qualify for the Boston Marathon. 
+
+I love traveling to places I haven't been to. My most recent trip was a 6 month backpacking trip starting from Thailand to the United States, Czech Republic, Hungary, Austria, Italy, Croatia, and Turkey. I post photos and videos of my travels on my travel instagram!
 
 ### Connect With Me:
 
