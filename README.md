@@ -1,7 +1,7 @@
 # Minho Cho 🥭
 
 ## CS Graduate Student
-- 🏆 2022 Goals: Programming
+- 🏆 Focus: Data Analytics, AI, Software Engineering
 - 📚 Languages: Korean, English, Japanese
 
 ### Connect With Me:
