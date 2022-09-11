@@ -18,9 +18,9 @@ I love traveling to places I haven't been to. My most recent trip was a 6 month 
 
 ### Connect With Me:
 
-[linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-<br />
-[instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://linkedin.com/in/minhocho4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Minho Cho" height="30" width="40" /></a>
+<<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
+<a href="https://www.youtube.com/mc811mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yotube Traveling Mino" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
@@ -34,8 +34,3 @@ I love traveling to places I haven't been to. My most recent trip was a 6 month 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
----
-
-[instagram]: https://www.instagram.com/travelingmino/
-[linkedin]: https://www.linkedin.com/in/minhocho4/
