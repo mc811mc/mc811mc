@@ -1,4 +1,4 @@
-# Minho Cho 🥭
+# Minho Cho 👋
 
 ## Education 🎓
 
