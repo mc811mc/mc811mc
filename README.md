@@ -1,14 +1,14 @@
 # Minho Cho 🥭
 
-## Education
+## Education 🎓
 
 I am a current **CS graduate student** at **Virgina Tech** specializing in **Data Analytics** and **AI**. I am also taking courses in **Software Engineering**. I did my undergraduate at the **University of Washington** in **Mathematics**. 
 
-## Tech
+## Tech 📚
 
 I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot**.  
 
-## Hobbies
+## Hobbies 🏃
 
 I have been self-learning Japanese since 2018. Working in Japan in the future is on my radar!
 
