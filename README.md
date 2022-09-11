@@ -19,7 +19,7 @@ I love traveling to places I haven't been to. My most recent trip was a 6 month 
 ### Connect With Me:
 
 <a href="https://linkedin.com/in/minhocho4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Minho Cho" height="30" width="40" /></a>
-<<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
+<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
 <a href="https://www.youtube.com/mc811mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yotube Traveling Mino" height="30" width="40" /></a>
 
 ### Languages and Tools:
