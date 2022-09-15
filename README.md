@@ -6,7 +6,7 @@ I am a current **CS graduate student** at **Virgina Tech** specializing in **Dat
 
 ## Tech 📚
 
-I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot**.  
+I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot** mainly using **Python**. I am a heavy **Slack** and **Notion** user to make dedicated workspaces per project and document all my projects.  
 
 ## Hobbies 🏃
 
