@@ -2,7 +2,7 @@
 
 ## Education 🎓
 
-I am a current **CS graduate student** at **Virgina Tech** specializing in **Data Analytics** and **AI**. I am also taking courses in **Software Engineering**. I did my undergraduate at the **University of Washington** in **Mathematics**. 
+I am a current **CS graduate student** at **Virgina Tech** specializing in **Data Analytics** and **AI**. I am also taking courses in **Software Engineering** to learn how to present my work through software. I did my undergraduate at the **University of Washington** in **Mathematics**. 
 
 ## Tech 📚
 
