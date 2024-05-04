@@ -8,6 +8,8 @@ I am a **CS Graduate** from **Virgina Tech** who specialized in **Data Analytics
 
 I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot** mainly using **Python**. I am a heavy **Discord** and **Notion** user to make dedicated workspaces per project and document all my projects.  
 
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Hobbies 🏃
 
 I have been self-learning Japanese since 2018. Working in Japan in the future is on my radar!
