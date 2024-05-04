@@ -2,7 +2,7 @@
 
 ## Education 🎓
 
-I am a **CS Graduate ** from **Virgina Tech** who specialized in **Data Analytics** and **AI**. I did my undergraduate at the **University of Washington** in **Mathematics**. I am currently working as a **Computational Linguist**. I am planning to become a **NLP Engineer**, **Generative AI Engineer** in the future
+I am a **CS Graduate** from **Virgina Tech** who specialized in **Data Analytics** and **AI**. I did my undergraduate at the **University of Washington** in **Mathematics**. I am currently working as a **Computational Linguist**. I am planning to become a **NLP Engineer**, **Generative AI Engineer** in the future
 
 ## Tech 📚
 
