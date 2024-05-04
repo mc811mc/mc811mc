@@ -2,19 +2,19 @@
 
 ## Education 🎓
 
-I am a current **CS graduate student** at **Virgina Tech** specializing in **Data Analytics** and **AI**. I am also taking courses in **Software Engineering** to learn how to present my work through software. I did my undergraduate at the **University of Washington** in **Mathematics**. 
+I am a **CS Graduate ** from **Virgina Tech** who specialized in **Data Analytics** and **AI**. I did my undergraduate at the **University of Washington** in **Mathematics**. I am currently working as a **Computational Linguist**. I am planning to become a **NLP Engineer**, **Generative AI Engineer** in the future
 
 ## Tech 📚
 
-I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot** mainly using **Python**. I am a heavy **Slack** and **Notion** user to make dedicated workspaces per project and document all my projects.  
+I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot** mainly using **Python**. I am a heavy **Discord** and **Notion** user to make dedicated workspaces per project and document all my projects.  
 
 ## Hobbies 🏃
 
 I have been self-learning Japanese since 2018. Working in Japan in the future is on my radar!
 
-I am preparing to run a marathon in Fall 2023. My goal is to finish within 3 hours to qualify for the Boston Marathon. 
+I have been cycling Washington D.C. area to prepare for my C&O Canel bike trip this Fall.
 
-I love traveling to places I haven't been to. My most recent trip was a 6 month backpacking trip starting from Thailand to the United States, Czech Republic, Hungary, Austria, Italy, Croatia, and Turkey. I post photos and videos of my travels on my travel instagram!
+I love traveling to places I haven't been to. My most recent trip was a trip in Vietnam. I have a travel blog where I write journals. You can check it out here at [Traveling Mino](https://travelingmino.com/)!
 
 ### Connect With Me:
 
