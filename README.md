@@ -1,29 +1,20 @@
 # Minho Cho 👋
 
+I am passionate on working on projects in regards to finance, crytocurrency, and NLP. I am currently working as a **Computational Linguist** and a **Korean to English Translator**. I am planning to become a **NLP Engineer**, **Generative AI Engineer** in the future.
+
 ## Education 🎓
 
-I am a **CS Graduate** from **Virgina Tech** who specialized in **Data Analytics** and **AI**. I did my undergraduate at the **University of Washington** in **Mathematics**. I am currently working as a **Computational Linguist**. I am planning to become a **NLP Engineer**, **Generative AI Engineer** in the future
+- **MEng CS Graduate** from **Virgina Tech**
+- **BS Mathematics** from the **University of Washington**
 
 ## Tech 📚
 
-I enjoy contributing to open source projects and leading projects I do with friends and classmates. I am currently working on a **Cryptocurrency Trading Bot** mainly using **Python**. I am a heavy **Discord** and **Notion** user to make dedicated workspaces per project and document all my projects.  
-
 ![mc811mc's Stats](https://github-readme-stats.vercel.app/api?username=mc811mc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## Hobbies 🏃
+- Working on a **Cryptocurrency Trading Bot**
+- Content Writer on [Medium](https://medium.com/@minhocho)
 
-I have been self-learning Japanese since 2018. Working in Japan in the future is on my radar!
-
-I have been cycling Washington D.C. area to prepare for my C&O Canel bike trip this Fall.
-
-I love traveling to places I haven't been to. My most recent trip was a trip in Vietnam. I have a travel blog where I write journals. You can check it out here at [Traveling Mino](https://travelingmino.com/)!
-
-### Connect With Me:
-
-<a href="https://linkedin.com/in/minhocho4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Minho Cho" height="30" width="40" /></a>
-<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
-<a href="https://www.youtube.com/mc811mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Minho Cho" height="30" width="40" /></a>
-<a href="https://medium.com/@minhocho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chiki1601" height="30" width="40" /></a>
+I mainly use **Discord** and **Notion** to make dedicated workspaces per project and document all my projects while collaborating with others. 
 
 ### Languages and Tools:
 
@@ -37,3 +28,17 @@ I love traveling to places I haven't been to. My most recent trip was a trip in 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+## Hobbies 🏃
+
+- Been self-learning Japanese since 2018. Working in Japan is on my radar!
+- Been cycling Washington D.C. area to prepare for my C&O Canel bike trip this Fall.
+- Love traveling to new places; my most recent trip was a trip in Vietnam. I have a travel blog where I write journals: [Traveling Mino](https://travelingmino.com/)!
+
+### Connect With Me:
+
+<a href="https://linkedin.com/in/minhocho4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Minho Cho" height="30" width="40" /></a>
+<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
+<a href="https://medium.com/@minhocho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chiki1601" height="30" width="40" /></a>
+
+Thanks for stopping by! Let's connect to grow together!
