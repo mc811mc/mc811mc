@@ -37,7 +37,7 @@ I mainly use **Discord** and **Notion** to make dedicated workspaces per project
 ## Connect With Me:
 
 <a href="https://linkedin.com/in/minhocho4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Minho Cho" height="30" width="40" /></a>
-<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
 <a href="https://medium.com/@minhocho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chiki1601" height="30" width="40" /></a>
+<a href="https://instagram.com/travelingmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Traveling Mino" height="30" width="40" /></a>
 
 Thanks for stopping by! Let's connect to grow together!
